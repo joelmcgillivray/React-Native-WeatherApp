@@ -15,7 +15,7 @@ app.json
 babel.config.js
 package.json
 package-lock.json
-
+.idea
 android
 assets
 node_modules
